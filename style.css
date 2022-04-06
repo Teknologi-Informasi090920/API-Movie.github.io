@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffe8a8;
+}
+
+#projects {
+  background-color: #ffe8a8;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.ig-thumbnail {
+  width: 100px;
+  height: 100px;
+  float: left;
+  overflow: hidden;
+}
+
+.ig-thumbnail img {
+  width: 100px;
+}
